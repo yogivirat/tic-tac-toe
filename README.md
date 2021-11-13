@@ -15,6 +15,8 @@ You can play this game by downloading the zip file and extracting it.
 I created this game by following electron framework docs : https://www.electronjs.org/
 
 You can change the code according to your wish by following these steps:
+
+
         i.    Clone this repository.
         
         ii.   Open this folder with your preferred editor.
@@ -23,6 +25,7 @@ You can change the code according to your wish by following these steps:
         
         iv.   You can run the project by typing 'npm start' in your terminal.
 
+Note : Install electron package version : 15.3.0
 
 
 Have fun, Happy Coding !!!
