@@ -16,8 +16,11 @@ I created this game by following electron framework docs : https://www.electronj
 
 You can change the code according to your wish by following these steps:
         i.    Clone this repository.
+        
         ii.   Open this folder with your preferred editor.
+        
         iii.  You have to install electron, electron-builder npm package for the test run.
+        
         iv.   You can run the project by typing 'npm start' in your terminal.
 
 
